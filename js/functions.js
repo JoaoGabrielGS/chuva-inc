@@ -4,7 +4,6 @@ const showMoreText = document.getElementById("show-more-text");
 
 const wantToShareIdeas = document.getElementById("want-to-share-ideas");
 const shareANewIdea = document.getElementById("share-a-new-idea");
-const newTopicBtn = document.getElementById("create-new-topic-button");
 const input = document.getElementById("comment-subject");
 const textarea = document.getElementById("comment-content")
 const sendIdea = document.getElementById("send-btn");
